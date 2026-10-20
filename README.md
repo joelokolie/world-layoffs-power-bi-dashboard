@@ -12,19 +12,26 @@ The report is structured into eight distinct pages to guide the user through the
 
 1.  **Overview:** Key performance indicators (KPIs) summarizing the dataset—total layoffs (383K), total companies (1.6K), date range, and the number of companies with 100% workforce reduction (116).
 ![Overview Dashboard](images/01_overview.png)
+
 3.  **Company Analysis:** Highlights the top companies by total layoffs (e.g., Amazon at 18.15K, Google at 12K) and lists companies that reported a 100% workforce reduction.
 ![Company Analysis](images/02_company_analysis.png)
-4.  **Industry Analysis:** Compares industries by total layoffs (Consumer and Retail leading), and identifies industries with the most complete company closures.
+
+5.  **Industry Analysis:** Compares industries by total layoffs (Consumer and Retail leading), and identifies industries with the most complete company closures.
 ![Industry Analysis](images/03_industry_analysis.png)
-5.  **Geographic Analysis:** Displays the geographic distribution of layoffs, showing the United States as the most affected country (256.1K), alongside a map visual and a list of countries with the fewest layoffs.
+
+7.  **Geographic Analysis:** Displays the geographic distribution of layoffs, showing the United States as the most affected country (256.1K), alongside a map visual and a list of countries with the fewest layoffs.
 ![Geographic Analysis](images/04_geographic_analysis.png)
-7.  **Time Analysis:** Tracks how layoffs fluctuated over time, highlighting the major spikes in late 2022 and early 2023, with a breakdown of yearly percentages.
+
+9.  **Time Analysis:** Tracks how layoffs fluctuated over time, highlighting the major spikes in late 2022 and early 2023, with a breakdown of yearly percentages.
 ![Time Analysis](images/05_time_analysis.png)
-8.  **Annual Analysis:** Shows the dominance of specific industries and countries year by year, noting 2022 as the most impacted year (160.7K layoffs).
+
+11.  **Annual Analysis:** Shows the dominance of specific industries and countries year by year, noting 2022 as the most impacted year (160.7K layoffs).
 ![Annual Analysis](images/06_annual_analysis.png)
-9.  **Company Stage Analysis:** Uses a treemap and bar chart to reveal that Post-IPO companies had the highest total layoffs, while Seed-stage companies had the highest proportion of their workforce laid off (70.17%).
+
+13.  **Company Stage Analysis:** Uses a treemap and bar chart to reveal that Post-IPO companies had the highest total layoffs, while Seed-stage companies had the highest proportion of their workforce laid off (70.17%).
 ![Company Stage Analysis](images/07_company_stage_analysis.png)
-10.  **Key Findings:** A summary page outlining the seven most important insights drawn from the data.
+
+15.  **Key Findings:** A summary page outlining the seven most important insights drawn from the data.
 ![Key Findings](images/08_key_findings.png)
 
 ## Key Insights
